@@ -1,0 +1,320 @@
+{
+  "SEA18": {
+    "name": "Alexandria",
+    "address": "1800 9th Ave, Seattle, WA, Seattle, WA",
+    "lon": -122.34366236349351,
+    "lat": 47.625195507215494
+  },
+  "SEA20": {
+    "name": "Cricket",
+    "address": "440 Terry Ave N, Seattle, WA",
+    "lon": -122.3297418745145,
+    "lat": 47.6140310821
+  },
+  "SEA21": {
+    "name": "Van Vorst",
+    "address": "426 Terry Ave N, Seattle, WA",
+    "lon": -122.3294425621425,
+    "lat": 47.6138509303195
+  },
+  "SEA22": {
+    "name": "Invictus",
+    "address": "410 Terry Ave N, Seattle, WA",
+    "lon": -122.3296646352285,
+    "lat": 47.613620324322
+  },
+  "SEA23": {
+    "name": "Wainwright",
+    "address": "535 Terry Ave N, Seattle, WA",
+    "lon": -122.3303893658735,
+    "lat": 47.614787744907005
+  },
+  "SEA24": {
+    "name": "Fiona",
+    "address": "500 Boren Ave N, Seattle, WA",
+    "lon": -122.32866839496,
+    "lat": 47.6148678094505
+  },
+  "SEA25": {
+    "name": "Obidos",
+    "address": "551 Boren Ave N, Seattle, WA",
+    "lon": -122.329316262558,
+    "lat": 47.615210217436
+  },
+  "SEA26": {
+    "name": "Rufus",
+    "address": "550 Terry Ave N, Seattle, WA",
+    "lon": -122.3300548483155,
+    "lat": 47.614674994638
+  },
+  "SEA27": {
+    "name": "Dawson",
+    "address": "345 Boren Ave N, Seattle, WA",
+    "lon": -122.3286538291555,
+    "lat": 47.613251108365
+  },
+  "SEA28": {
+    "name": "Ruby",
+    "address": "333 Boren Ave N, Seattle, WA",
+    "lon": -122.3286180807105,
+    "lat": 47.612960884559
+  },
+  "SEA29": {
+    "name": "Arizona",
+    "address": "207 Boren Ave N, Seattle, WA",
+    "lon": -122.3362655203495,
+    "lat": 47.6201959874575
+  },
+  "SEA30": {
+    "name": "Varzea",
+    "address": "2201 Westlake Ave, Seattle, WA",
+    "lon": -122.3405811580005,
+    "lat": 47.6289715866305
+  },
+  "SEA33": {
+    "name": "Blackfoot",
+    "address": "1918 8th Ave, Seattle, WA",
+    "lon": -122.351556500584,
+    "lat": 47.626081487455494
+  },
+  "SEA35": {
+    "name": "Port 99",
+    "address": "2001 8th Ave, Seattle, WA",
+    "lon": -122.352602489932,
+    "lat": 47.6263585704565
+  },
+  "SEA36": {
+    "name": "Prime",
+    "address": "1260 Mercer St, Seattle, WA",
+    "lon": -122.3237015600385,
+    "lat": 47.62448264212
+  },
+  "SEA37": {
+    "name": "Roxanne",
+    "address": "202 Westlake Ave N, Seattle, WA",
+    "lon": -122.3393874271315,
+    "lat": 47.628975880331
+  },
+  "SEA38": {
+    "name": "Bigfoot",
+    "address": "515 Westlake Ave N, Seattle, WA",
+    "lon": -122.3399429377645,
+    "lat": 47.6308033657255
+  },
+  "SEA39": {
+    "name": "Nessie",
+    "address": "500 9th Ave N, Seattle, WA",
+    "lon": -122.3315074911025,
+    "lat": 47.614483489940994
+  },
+  "SEA40": {
+    "name": "Doppler",
+    "address": "2021 7th Ave, Seattle, WA",
+    "lon": -122.352465719056,
+    "lat": 47.626153342095
+  },
+  "SEA41": {
+    "name": "Day 1",
+    "address": "2121 7th Ave, Seattle, WA",
+    "lon": -122.35303800196999,
+    "lat": 47.62715150026
+  },
+  "SEA43": {
+    "name": "Nitro North",
+    "address": "2250 7th Ave, Seattle, WA",
+    "lon": -122.35340347426151,
+    "lat": 47.628194385365
+  },
+  "SEA44": {
+    "name": "Frontier",
+    "address": "2205 7th Ave, Seattle, WA",
+    "lon": -122.3535179710585,
+    "lat": 47.627862854724995
+  },
+  "SEA45": {
+    "name": "Meeting Center",
+    "address": "2031 7th Ave, Seattle, WA",
+    "lon": -122.35264818281749,
+    "lat": 47.6263028330185
+  },
+  "SEA48": {
+    "name": "Nitro South",
+    "address": "2205 8th Ave, Seattle, WA",
+    "lon": -122.3537584583315,
+    "lat": 47.6278610975055
+  },
+  "SEA49": {
+    "name": "Houston",
+    "address": "224 Westlake Ave N, Seattle, WA",
+    "lon": -122.3393859602985,
+    "lat": 47.629179371985
+  },
+  "SEA51": {
+    "name": "Mayday",
+    "address": "1220 Howell St, Seattle, WA",
+    "lon": -122.32335603406051,
+    "lat": 47.6176631466515
+  },
+  "SEA53": {
+    "name": "Brazil",
+    "address": "400 9th Ave N, Seattle, WA",
+    "lon": -122.33162594161,
+    "lat": 47.6134630013945
+  },
+  "SEA54": {
+    "name": "Apollo",
+    "address": "325 9th Ave N., Seattle, WA",
+    "lon": -122.332122974252,
+    "lat": 47.6126740046835
+  },
+  "SEA55": {
+    "name": "Otter",
+    "address": "2301 5th Ave, Seattle, WA",
+    "lon": -122.35367213375,
+    "lat": 47.6275812131965
+  },
+  "SEA57": {
+    "name": "Stackhouse",
+    "address": "447 Yale Ave, Seattle, WA",
+    "lon": -122.330550810842,
+    "lat": 47.622519628088
+  },
+  "SEA58": {
+    "name": "Kumo",
+    "address": "1915 Terry Ave, Seattle, WA",
+    "lon": -122.334486964314,
+    "lat": 47.616474003352
+  },
+  "SEA59": {
+    "name": "Delight",
+    "address": "507 Westlake Ave N, Seattle, WA",
+    "lon": -122.339770941111,
+    "lat": 47.6306858723975
+  },
+  "SEA68": {
+    "name": "Coral",
+    "address": "2201 6th Ave, Seattle, WA",
+    "lon": -122.345841027378,
+    "lat": 47.61152588389599
+  },
+  "SEA69": {
+    "name": "Galaxy",
+    "address": "635 Elliott Ave W, Seattle, WA",
+    "lon": -122.367206980645,
+    "lat": 47.625180998643
+  },
+  "SEA70": {
+    "name": "Houdini South",
+    "address": "300 Boren Ave N, Seattle, WA",
+    "lon": -122.327893783007,
+    "lat": 47.612921364114996
+  },
+  "SEA71": {
+    "name": "Houdini North",
+    "address": "399 Fairview Ave N, Seattle, WA",
+    "lon": -122.334789970114,
+    "lat": 47.621724008406
+  },
+  "SEA74": {
+    "name": "Verdi",
+    "address": "Undisclosed, Seattle, WA",
+    "lon": -122.34007,
+    "lat": 47.611909999999995
+  },
+  "SEA76": {
+    "name": "Amelia",
+    "address": "501 Fairview Ave N, Seattle, WA",
+    "lon": -122.334591989561,
+    "lat": 47.623367992986
+  },
+  "SEA77": {
+    "name": "Gatsby",
+    "address": "428 Westlake Ave N, Seattle, WA",
+    "lon": -122.339381936985,
+    "lat": 47.630355373955496
+  },
+  "SEA81": {
+    "name": "Oscar",
+    "address": "1007 Stewart St, Seattle, WA",
+    "lon": -122.333004038005,
+    "lat": 47.616268018082
+  },
+  "SEA82": {
+    "name": "Everest",
+    "address": "425 106th Avenue NE, Bellevue, WA 98004",
+    "lon": -122.199363979604,
+    "lat": 47.614197017445
+  },
+  "SEA83": {
+    "name": "Triumph West",
+    "address": "320 Westlake Ave N, Seattle, WA",
+    "lon": -122.339385457384,
+    "lat": 47.6296418854025
+  },
+  "SEA84": {
+    "name": "Lowflyinghawk",
+    "address": "1812 Boren Ave, Seattle, WA",
+    "lon": -122.332075993685,
+    "lat": 47.616970002473
+  },
+  "SEA86": {
+    "name": "Triumph East",
+    "address": "321 Terry Ave N, Seattle, WA",
+    "lon": -122.3298188253965,
+    "lat": 47.6128271055785
+  },
+  "SEA89": {
+    "name": "Ivy",
+    "address": "300 Pine St, Seattle, WA",
+    "lon": -122.353875710475,
+    "lat": 47.707336159116494
+  },
+  "SEA90": {
+    "name": "Atlas",
+    "address": "325 Eastlake Avenue East, Seattle, WA",
+    "lon": -122.3247108746085,
+    "lat": 47.6374812294395
+  },
+  "SEA91": {
+    "name": "Unicorn",
+    "address": "234 9th Ave North, Seattle, WA",
+    "lon": -122.330844991107,
+    "lat": 47.611820378578
+  },
+  "SEA93": {
+    "name": "Maverick",
+    "address": "10885 NE 4th St. 8th floor, Bellevue, WA 98004",
+    "lon": -122.1947990316755,
+    "lat": 47.613536234701
+  },
+  "SEA101": {
+    "name": "Toaster",
+    "address": "1730 Minor Ave, Seattle, WA",
+    "lon": -122.329693018612,
+    "lat": 47.616944018573
+  },
+  "SEA102": {
+    "name": "Cloud9",
+    "address": "920 5th Ave, Seattle, WA",
+    "lon": -122.347221489411,
+    "lat": 47.617141999126
+  },
+  "SEA103": {
+    "name": "Blizzard",
+    "address": "925 4th Ave, Seattle, WA",
+    "lon": -122.339130481281,
+    "lat": 47.611240157112
+  },
+  "SEA115": {
+    "name": "Helix",
+    "address": "1099 Stewart Street, 3rd Floor, Seattle, WA",
+    "lon": -122.332593995301,
+    "lat": 47.616641012773
+  },
+  "SEA116": {
+    "name": "Charisma",
+    "address": "1600 7th Ave, Seattle, WA",
+    "lon": -122.35037648008449,
+    "lat": 47.6234136560985
+  }
+}
